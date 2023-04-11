@@ -1,4 +1,5 @@
-**Termux Pacman** is the organization that maintains and develops pacman technologies in Termux. At the moment **Termux Pacman's** main product is the termux package service, but in the future the project will develop its packages and tools for general use.
+**Termux Pacman** is an organization dedicated to maintaining Termux packages in the pacman format, developing personal packages and tools to work with the pacman package manager.
+
 
 <img alt="open collective badge" src="https://opencollective.com/termux-pacman/tiers/badge.svg"/>
 
