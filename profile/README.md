@@ -1,9 +1,9 @@
 **Termux-Pacman** is an informal organization dedicated to various projects primarily aimed at Termux.
 
 ### Main projects (briefly):
-- Pacman packages - provides Termux packages in pacman format, autonomously building them from mirrored Git repositories.
-- Glibc packages - provides glibc packages that run natively on the Android kernel without virtualization.
-- The pacman-alternatives utility - simplifies managing symlinks (alternatives) of pacman packages.
+- **Pacman packages** - provides Termux packages in pacman format, autonomously building them from mirrored Git repositories.
+- **Glibc packages** - provides glibc packages that run natively on the Android kernel without virtualization.
+- **The pacman-alternatives utility** - simplifies managing symlinks (alternatives) of pacman packages.
 
 You can read more about it on the Termux-Pacman main page - [termux-pacman.dev](https://termux-pacman.dev/).
 
